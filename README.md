@@ -17,13 +17,19 @@ Search Functionality: Users can search for books and reviews using keywords.
 Technologies Used
 
 Frontend: React, Tailwind CSS
+
 Backend: Node.js, Express
+
 Database: MySQL 
-API: Integration with an external book API (e.g., Google Books API) or a local JSON file for books data
+
+ 
 Setup Instructions
 Prerequisites
+
 Node.js
+
 NPM
+
 Getting Started
 Clone the repository:
  
@@ -31,12 +37,17 @@ git clone https://github.com/your-username/book-review-project.git
 Install the backend dependencies:
  
 cd backend
+
 npm install
+
 Install the frontend dependencies:
+
  
 cd frontend
+
 npm install
-Set up environment variables (if applicable) in a .env file:
+
+Set up environment variables 
 
 For API keys
 For database connection
@@ -56,7 +67,9 @@ Visit http://localhost:3000 to view the application in your browser.
 Assumptions
 The application uses a mock database or an API for fetching book data. If a live API is unavailable, the data may be hardcoded in a JSON file.
 The backend and frontend are running separately, with the frontend making API requests to the backend.
+
 Known Issues
 Some mobile views might not be perfectly optimized due to limited time for testing.
+
 License
 This project is open-source and available under the MIT License.
