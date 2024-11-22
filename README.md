@@ -1,14 +1,21 @@
 Book Review Web Application
+
 Overview
+
 This project demonstrates a full-stack web application for book reviews. It allows users to view, add, and search for book reviews. The project was developed with an emphasis on full-stack development, responsive design, and working with APIs or JSON data.
 
+
 Features Implemented
+
 User Authentication: Users can log in to the application to add and manage their book reviews.
 Book Review Submission: Users can submit reviews, including book titles, authors, and ratings.
 Responsive Design: The application is fully responsive and works on both desktop and mobile devices.
 API Integration: The application uses an external API to fetch books and display reviews.
 Search Functionality: Users can search for books and reviews using keywords.
+
+
 Technologies Used
+
 Frontend: React, Tailwind CSS
 Backend: Node.js, Express
 Database: MySQL 
